@@ -11,3 +11,9 @@
 // unsigned commit to check lael
 
 // signing the commit and checking if the label will be removed
+
+// dco added check success
+
+// no-dco unsigned commit
+
+// add signed commit
