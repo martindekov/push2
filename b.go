@@ -15,3 +15,5 @@
 // dco added check success
 
 // no-dco unsigned commit
+
+// add signed commit
