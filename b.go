@@ -13,3 +13,5 @@
 // signing the commit and checking if the label will be removed
 
 // dco added check success
+
+// no-dco unsigned commit
