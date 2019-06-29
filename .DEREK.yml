@@ -6,4 +6,8 @@ features:
  - comments
  - dco_check
 
+message:
+  - name: cool
+    value: I am doing this just to test this functionality.
+
 contributing_url: https://github.com/openfaas/faas/blob/master/CONTRIBUTING.md
