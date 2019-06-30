@@ -6,7 +6,7 @@ features:
  - comments
  - dco_ch eck
 
-message:
+messages:
   - name: cool
     value: I am doing this just to test this functionality.
   - name: slack
