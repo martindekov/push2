@@ -1,0 +1,9 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:8080
+functions:
+  push2:
+    lang: go
+    handler: ./push2
+    image: martindekov/push2:latest
