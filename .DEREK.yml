@@ -4,7 +4,7 @@ maintainers:
 
 features:
  - comments
- - dco_ch eck
+ - dco_check
 
 custom_messages:
   - name: cool
