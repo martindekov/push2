@@ -1,2 +1,4 @@
 # push2
-Say I have conflict and someone added something
+Say I have conflict
+
+And I add non conflicting change
